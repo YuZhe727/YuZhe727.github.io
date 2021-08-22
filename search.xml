@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>让子弹飞一会</title>
+      <link href="/2021/08/22/cheng-nuo/"/>
+      <url>/2021/08/22/cheng-nuo/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>在读《自控力》这本书时，作者提及当我们把自己的自控目标公诸于世的时候，我们的自控行为能够得到一定的保障，所以我在这个特殊的、意义深远的时期，尝试将自己短期的愿景当做自己的自控目标，并公布在我的小破站上。</p><p>虽然我的小破站因为没有提交百度站长链接，导致访问量感人，但我会一直将这篇文章留存，以此来督促我，也激励偶然发现小破站的每个有缘人。</p><p>这次的短期愿景主要是围绕找工作展开的，它会由复习计划、刷题计划、面经计划、生活计划组成，就此起笔——</p><ul><li><input checked="" disabled="" type="checkbox"> 为了提高未来与现在的连续性，也会专门维护一个计划更新的模块</li></ul><table><thead><tr><th>三个阶段</th><th>日期</th><th>早(完成则标<code>粉色</code>)</th><th>中</th><th>晚</th><th>生活目标</th><th>自控目标</th><th>反馈(打星)</th></tr></thead><tbody><tr><td></td><td>8.23</td><td>锻炼 学习动态规划步骤，练题1道</td><td>练习真题2套</td><td>回顾笔试题，锻炼</td><td>早7中13晚10点半</td><td>提醒自己短期愿景</td><td></td></tr><tr><td></td><td>8.24</td><td>锻炼、面经3篇</td><td>mysql脉络</td><td>mysql思维导图</td><td>早7中13晚10点半</td><td></td><td></td></tr><tr><td>落子</td><td>8.25</td><td>锻炼、面经3篇</td><td>redis场景</td><td>redis思维导图</td><td>早7中13晚10点半</td><td></td><td></td></tr><tr><td></td><td>8.26</td><td>爬山</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td><code>8.27</code></td><td>面经3篇</td><td>项目完善</td><td>项目完善</td><td>早7中13晚10点半</td><td></td><td></td></tr><tr><td></td><td>8.28</td><td>剑指offer2道手写，2道算法流程、1篇面经</td><td>项目部署</td><td>项目部署、跑步</td><td>早7中13晚11</td><td></td><td></td></tr><tr><td>出击</td><td>8.29</td><td>剑指offer2道手写，2道算法流程、1篇面经</td><td>rabbitMQ入门</td><td>rabbitMQ入门、跑步</td><td>早7中13晚11</td><td></td><td></td></tr><tr><td></td><td>8.30</td><td>剑指offer2道手写，4道算法流程</td><td>rabbitMQ场景</td><td>rabbitMQ面试题、跑步</td><td>早7中13晚11</td><td></td><td></td></tr><tr><td></td><td>8.31</td><td>剑指offer2道手写，2道算法流程、1篇面经</td><td>rabbitMQ思维导图</td><td>回顾思维导图、跑步</td><td>早7中13晚11</td><td></td><td></td></tr><tr><td></td><td>9.1</td><td>剑指offer2道手写，2道算法流程、1篇面经</td><td>复习思维导图</td><td>复习自己写的题集、跑步</td><td>早7中13晚11</td><td></td><td></td></tr><tr><td></td><td><code>9.2</code></td><td>剑指offer2道手写，2道算法流程、1篇面经</td><td>复习思维导图</td><td>复习自己写的题集、跑步</td><td>早7中13晚11</td><td></td><td></td></tr><tr><td>对决</td><td>9.3</td><td><strong>根据上面的完成情况设定</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>9.4</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>9.5</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>9.6</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>9.7</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>9.8</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>9.9</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>9.10</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><h2 id="日志"><a href="#日志" class="headerlink" title="日志"></a>日志</h2><h2 id="版本更新"><a href="#版本更新" class="headerlink" title="版本更新"></a>版本更新</h2><blockquote><p>山高路远，静水深流。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 意志力 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于hexo框架、mastery主题的个人博客搭建[小白教程]</title>
       <link href="/2021/07/21/ji-yu-hexo-kuang-jia-mastery-zhu-ti-de-ge-ren-bo-ke-da-jian-xiao-bai-jiao-cheng/"/>
       <url>/2021/07/21/ji-yu-hexo-kuang-jia-mastery-zhu-ti-de-ge-ren-bo-ke-da-jian-xiao-bai-jiao-cheng/</url>
@@ -27,6 +52,19 @@
             <tag> mastery </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>715</title>
+      <link href="/2021/07/15/715/"/>
+      <url>/2021/07/15/715/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>715</p>]]></content>
+      
+      
       
     </entry>
     
